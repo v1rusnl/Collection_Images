@@ -1,2 +1,2 @@
-Collection Images for Media Servers
+Collection Images for Media Servers with GIMP Template
  
